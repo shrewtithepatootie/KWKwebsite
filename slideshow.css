@@ -1,0 +1,57 @@
+/* .slideshow-container  */
+
+.testing-image {
+  height: 50%;
+  width: 100%;
+}
+
+.topnav {
+  background-color: #1D3557;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #445875;
+  color: white;
+}
+.EqualPlay{
+  height:50px;
+}
+body {
+  line-height: 30px;
+  color: #1D3557;
+  background-color: #DED6E4;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+.mySlides {
+  position: relative;
+  overflow-y: hidden;
+}
+
+body {
+  background-color: #DED6E4;
+}
+
+
+.caption{
+  text-align: center;
+}
+
+img {
+  object-fit: cover;
+}  
+
+

@@ -1,0 +1,108 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.topnav {
+  background-color: #1D3557;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #445875;
+  color: white;
+}
+.EqualPlay{
+  height:50px;
+}
+body {
+  text-align: center;
+  line-height: 30px;
+  color: #1D3557;
+  background-color: #DED6E4;
+}
+
+.history2 {
+  font-size: 20px
+}
+.coolimages{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.erika{
+  box-shadow: 10px 5px #927AA5
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+.manjoban{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+.shruti{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+.all{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+div{
+  padding: 10px;
+}
+
+a {
+  display: block;
+}
+
+.biotext{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+img{
+  height: 350px;
+  object-fit: cover;
+  width:100%;
+  border-radius: 50%;
+  box-shadow: 10px 5px #7d6392
+}
+
+.title {
+  line-height: 50px;
+  height: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  box-shadow: 10px 5px #445875;
+  border: 2px solid #927AA5;
+  width: 500px;
+}
+
+.et {
+  color: #445875;
+}
+
+.ms {
+  color: #445875;
+}
+
+.sn {
+  color: #445875;
+}

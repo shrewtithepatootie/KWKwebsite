@@ -1,0 +1,87 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+/*for top menu bar, ignore this code or any code that says .topnav and don't touch it*/
+.topnav {
+  background-color: #1D3557;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #445875;
+  color: white;
+}
+
+body {
+  line-height: 30px;
+  color: #1D3557;
+  background-color: #DED6E4;
+}
+.EqualPlay{
+  height:50px;
+}
+
+.wsf {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  color: #1D3557;
+  background-color: #DED6E4;
+}
+
+.history2 {
+  font-size: 20px
+}
+
+img {
+  height: 295px;
+  border-radius: 40px;
+}
+
+a {
+  display: block; 
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 28px;
+  display: center;
+  background-color: #1D3557;
+  box-shadow: 10px 5px #7d6392;
+  color: white;
+  height: 60px;
+  border-radius: 5px;
+  width: 8000px
+  border: 0px;
+}
+
+button:hover {
+  background-color: #445875;
+  color: white;
+}
+
+.wsf {
+  height:500px;
+}
+
+img {
+  box-shadow: 10px 5px #7d6392
+}
+
+
